@@ -4,7 +4,7 @@ Smart Traffic management system ,,,,,
  Authentication password is: 1234
   You Can Shown In This Type of Program in Cmd ...
 
-  Full Video Demo 🔥💯👑 : https://youtu.be/t6NX7R48YpM?si=K9AuVX3nril05M9c
+  Full Video Demo 🔥💯👑 : https://youtu.be/d_fXinmskPo
   ![Screenshot 17-07-2024 22_08_43](https://github.com/user-attachments/assets/8eb7c31e-c0bf-4d84-97d0-2ea51a1681d7)
 
 ![IMG_20240729_153120](https://github.com/user-attachments/assets/8d48117e-7478-4927-b0c6-fca07eae3b9b)
