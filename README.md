@@ -6,9 +6,11 @@ Smart Traffic management system ,,,,,
 
   Full Video Demo 🔥💯👑 : https://youtu.be/t6NX7R48YpM?si=K9AuVX3nril05M9c
   ![Screenshot 17-07-2024 22_08_43](https://github.com/user-attachments/assets/8eb7c31e-c0bf-4d84-97d0-2ea51a1681d7)
-![IMG_20240628_165034055](https://github.com/ChetaN7895/Smart-Traffic-Management/assets/151900157/8b584b62-585e-41a5-9682-6936fd7f5f46)
-![IMG_20240628_165054371](https://github.com/ChetaN7895/Smart-Traffic-Management/assets/151900157/b4ac8be3-fd77-4e90-8916-11bb1639447f)
 
-
-![IMG_20240628_165203502](https://github.com/ChetaN7895/Smart-Traffic-Management/assets/151900157/e696b49d-bb30-4526-a43d-3ce4312fedae)
+![IMG_20240729_153120](https://github.com/user-attachments/assets/8d48117e-7478-4927-b0c6-fca07eae3b9b)
+![IMG20240729153011](https://github.com/user-attachments/assets/3b1e8109-9fd1-48ec-a0ba-b8fd53b7c3e5)
+![IMG20240729152726](https://github.com/user-attachments/assets/14928976-6eaf-436a-9776-6949dac67170)
+![IMG20240729154414](https://github.com/user-attachments/assets/00fd289d-db1e-4d99-9269-a09e25ea6948)
+![IMG20240729152956](https://github.com/user-attachments/assets/d8fe83e8-f0ad-4f40-834b-41190b05db88)
+![IMG20240729152745](https://github.com/user-attachments/assets/8f9f6156-1bc0-4555-b3af-479042d2b3be)
 
