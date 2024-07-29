@@ -1,6 +1,7 @@
 # Smart-Traffic-Management System
 Smart Traffic management system ,,,,,
 🔓 Open SmartTrafficManagementSystem.exe
+ Authentication password is: 1234
   You Can Shown In This Type of Program in Cmd ...
 
   Full Video Demo 🔥💯👑 : https://youtu.be/t6NX7R48YpM?si=K9AuVX3nril05M9c
